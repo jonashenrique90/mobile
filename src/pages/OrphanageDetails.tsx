@@ -4,7 +4,7 @@ import { StyleSheet, View, Text} from 'react-native';
 const OrphanageDetails = () => {
 	return (
 		<View style={styles.container}>
-			<Text style={styles.textDetails}> Olá Orfãos, bom dia</Text>
+			<Text style={styles.textDetails}> Olá Orfãos, bom dia!!</Text>
 		</View>
 	)
 }
